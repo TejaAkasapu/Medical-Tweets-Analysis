@@ -1,0 +1,478 @@
+category_id,meddra_term,meddra_code
+0,vision loss,10047522.0
+1,withdrawal syndrome,10048010.0
+2,nauseous,10028823.0
+3,inability to orgasm,10021574.0
+4,weight gain,10047896.0
+5,headache,10019211.0
+6,condition worsened,10076326.0
+7,appetite suppressed,10003030.0
+8,pain,10033371.0
+9,drug toxicity,10013746.0
+10,feeling unwell,10016370.0
+11,confusion,10010300.0
+12,dizziness,10013573.0
+13,spaced out,10041374.0
+14,increasd skin sensitivity,10021681.0
+15,rash,10037844.0
+16,feeling strange,10016366.0
+17,sleeplessness,10041017.0
+18,hair loss,10019045.0
+19,calcium deficiency,10006956.0
+20,vitamin d deficiency,10047626.0
+21,depression,10012378.0
+22,liver damage,10024668.0
+23,allergic reaction,10001718.0
+24,near death experience,10068111.0
+25,mixed manic depressive episode,10065032.0
+26,feeling high,10016333.0
+27,pain in heel,10033431.0
+28,arm injury,10079024.0
+29,migraine,10027599.0
+30,vomiting,10047700.0
+31,illogical thinking,10021402.0
+32,slowed thinking,10041049.0
+33,feeling irritated,10016337.0
+34,felt like a zombie,10016384.0
+35,somnolence,10041349.0
+36,ache,10000424.0
+37,flu like symptoms,10016791.0
+38,shivers,10040559.0
+39,sweating,10042661.0
+40,rage,10037804.0
+41,back pain,10003988.0
+42,fluid retention,10016807.0
+43,swelling of legs,10042700.0
+44,drug withdrawal syndrome,10013754.0
+45,electric shock sensation,10014358.0
+46,lack of feeling emotions,10071175.0
+47,anger,10002368.0
+48,racing thoughts,10067192.0
+49,sleepiness,10041014.0
+50,tiredness,10043890.0
+51,hand injury,10079099.0
+52,tendon pain,10066371.0
+53,mental function decreased,10027372.0
+54,motor restlessness,10028006.0
+55,restless legs,10038742.0
+56,abdominal pain,10000081.0
+57,cramps,10011293.0
+58,fatigue,10016256.0
+59,joint disorder,10023211.0
+60,nausea,10028813.0
+61,skin disorder,10040831.0
+62,ulcer mouth,10045319.0
+63,ill feeling,10021345.0
+64,obsessive-compulsive disorder,10029898.0
+65,dehydration,10012174.0
+66,urination frequency of,10046600.0
+67,addiction,10001125.0
+68,drug dependence,10013663.0
+69,bloated feeling,10005264.0
+70,nauseated,10028822.0
+71,compulsions,10010219.0
+72,insomnia,10022437.0
+73,gastrointestinal upset,10018028.0
+74,pancreatitis,10033645.0
+75,low back pain,10024891.0
+76,neck discomfort,10028831.0
+77,shoulder pain,10040617.0
+78,weakness,10047862.0
+79,limping,10058726.0
+80,tourette's disorder,10044126.0
+81,twitching,10045198.0
+82,crying,10011469.0
+83,hunger,10020466.0
+84,hunger abnormal,10020467.0
+85,TMJ syndrome,10043900.0
+86,low back ache,10024890.0
+87,hangover effect,10019136.0
+88,restlessness,10038743.0
+89,feeling sick,10016365.0
+90,feeling lifeless,10016340.0
+91,tachyphylaxis,10043087.0
+92,pain worsened,10033499.0
+93,hypomania,10021030.0
+94,muscle spasm,10028333.0
+95,sleep paralysis,10041002.0
+96,blood pressure dropped,10005744.0
+97,unable to walk,10049278.0
+98,loss of libido,10024870.0
+99,screaming,10039740.0
+100,pain in arm,10033421.0
+101,tendon injury,10043242.0
+102,tendon disorder,10043239.0
+103,ataxia,10003591.0
+104,neurological disorder NOS,10029298.0
+105,bizarre dreams,10004969.0
+106,groggy on awakening,10018732.0
+107,injection site burning,10022053.0
+108,injection site pain,10022086.0
+109,heart rate increased,10019303.0
+110,palpitations,10033557.0
+111,emotional instability,10014554.0
+112,metabolic syndrome,10052066.0
+113,immobile,10021417.0
+114,glaucoma,10018304.0
+115,pins and needles,10035067.0
+116,homicidal attempt,10064160.0
+117,fuzzy,10017565.0
+118,sedation,10039897.0
+119,exhaustion,10015667.0
+120,mental fatigue,10076757.0
+121,back ache,10003978.0
+122,leg pain,10024130.0
+123,neck pain,10028836.0
+124,pain in hip,10033432.0
+125,irrational,10022989.0
+126,psychosis,10037234.0
+127,excessive daytime sleepiness,10015595.0
+128,laziness,10051602.0
+129,lucid dreams,10079069.0
+130,vivid dreams,10047666.0
+131,feeling stoned,10070679.0
+132,injection site stinging,10058683.0
+133,malodorous burping,10063053.0
+134,mental concentration difficulty,10027348.0
+135,shooting pain,10050007.0
+136,alcohol intolerance,10001598.0
+137,foggy feeling in head,10016876.0
+138,feeling drunk,10016330.0
+139,feeling abnormal,10016322.0
+140,depressed mood,10012374.0
+141,gastrointestinal pain,10017999.0
+142,carbohydrate craving,10007216.0
+143,tremor,10044565.0
+144,hard to awaken,10019158.0
+145,jc virus infection,10023163.0
+146,seizure,10039906.0
+147,bowel discomfort,10054248.0
+148,sleep disturbed,10040999.0
+149,binge eating,10004716.0
+150,lung disorder,10025082.0
+151,respiratory disorder,10038683.0
+152,strange smell sensation,10042165.0
+153,chemotherapy,10061758.0
+154,white blood cell increased,10049183.0
+155,vision decreased,10047516.0
+156,food craving,10056465.0
+157,alcoholism,10001639.0
+158,tremor of hands,10044577.0
+159,feeling of despair,10016344.0
+160,restlessness (drug related),10038744.0
+161,shaking,10040528.0
+162,tension nervous,10043272.0
+163,nightmares,10029414.0
+164,apathy,10002942.0
+165,frightening dreams,10017375.0
+166,tummy ache,10045148.0
+167,lethargic,10024262.0
+168,itchy legs,10023091.0
+169,paranoia,10033864.0
+170,irritable,10023000.0
+171,blurry vision,10005889.0
+172,staggering,10041902.0
+173,memory impairment,10027175.0
+174,drowsiness,10013649.0
+175,tendon rupture,10043248.0
+176,connective tissue disorder,10061087.0
+177,thyroid disorder,10043709.0
+178,burning eyes,10006774.0
+179,mental impairment,10027374.0
+180,anaphylactic shock,10002199.0
+181,bleeding nose,10005124.0
+182,invalid,10022876.0
+183,withdrawal symptom,10073281.0
+184,sleepy,10041018.0
+185,vertigo,10047340.0
+186,mood disorder,10079614.0
+187,mental deterioration,10027352.0
+188,appetite lost,10003028.0
+189,rebound effect,10038001.0
+190,daytime sleepiness,10011865.0
+191,loss of energy,10024862.0
+192,visual disturbances,10047545.0
+193,difficulty in standing,10050218.0
+194,paraesthesia,10033775.0
+195,restless leg syndrome,10038741.0
+196,attitude change,10003743.0
+197,unpleasant personality,10045549.0
+198,pale,10033532.0
+199,weight loss,10047900.0
+200,rheumatoid arthritis flare up,10060732.0
+201,heart rate abnormal,10019300.0
+202,panic attack,10033664.0
+203,nerve pain,10029181.0
+204,stevens johnson syndrome,10042030.0
+205,dependence addictive,10012336.0
+206,poisoning by antibiotic drugs,10035805.0
+207,hallucination,10019063.0
+208,stomach cramps,10049901.0
+209,numbness mouth,10049338.0
+210,feeling cold,10016326.0
+211,nightmare,10029412.0
+212,dry mouth,10013781.0
+213,joint pain,10023222.0
+214,acne,10000496.0
+215,premature ejaculation,10036596.0
+216,forgetfulness,10017060.0
+217,impotence,10021550.0
+218,sleep disturbance,10040995.0
+219,hyperactive,10020554.0
+220,sleep loss,10041001.0
+221,dreams abnormal,10013632.0
+222,bad dreams,10004063.0
+223,sleep excessive,10041000.0
+224,tingling,10043876.0
+225,dizzy,10013580.0
+226,excessive eating,10015598.0
+227,arrhythmia,10003119.0
+228,sun sensitivity,10042494.0
+229,feeling hungry,10016336.0
+230,pains in legs,10033522.0
+231,sluggishness,10041052.0
+232,lightheadedness,10024492.0
+233,passed out,10034100.0
+234,memory loss,10027176.0
+235,nasal stuffiness,10028771.0
+236,thinking sluggish,10043439.0
+237,priapism,10036661.0
+238,hives,10020197.0
+239,dry eyes,10013778.0
+240,vein disorder,10047184.0
+241,immune system disorder,10021425.0
+242,itchy skin,10023094.0
+243,kidney enlargement,10048469.0
+244,agitated,10001495.0
+245,stomach pain,10042112.0
+246,stress,10042209.0
+247,appetite absent,10003017.0
+248,teeth grinding,10043176.0
+249,feeling hot,10016334.0
+250,chest pain,10008479.0
+251,increased appetite,10021654.0
+252,sleep walking,10041012.0
+253,central nervous system disorder,10007943.0
+254,personality change,10034719.0
+255,dry nose,10013782.0
+256,dry throat,10013789.0
+257,erectile dysfunction,10061461.0
+258,halitosis,10019058.0
+259,tendonitis,10043255.0
+260,burning sensation,10006784.0
+261,bedridden,10048948.0
+262,clostridium difficile sepsis,10054177.0
+263,upset gastrointestinal,10046317.0
+264,allergic reaction to antibiotics,10001720.0
+265,drunk-like effect,10013767.0
+266,discomfort,10013082.0
+267,stress incontinence,10042213.0
+268,urinary incontinence,10046543.0
+269,blood pressure raised,10005755.0
+270,constipation,10010774.0
+271,diarrhea,10012727.0
+272,suicidal ideation,10042458.0
+273,feeling miserable,10016342.0
+274,heartbeats irregular,10019323.0
+275,drug interaction,10013710.0
+276,increased thirst,10021689.0
+277,aggression,10001488.0
+278,weird feeling,10047904.0
+279,feeling anxious,10016323.0
+280,head spinning,10019203.0
+281,low blood pressure,10024895.0
+282,mental state abnormal aggravated,10048345.0
+283,feeling sad,10016364.0
+284,teeth clenching,10057326.0
+285,light-headed,10024490.0
+286,poor quality sleep,10062519.0
+287,discomfort epigastric,10013087.0
+288,flushed,10016821.0
+289,jaw disorder,10061257.0
+290,erection failure,10015118.0
+291,stomach ache,10042076.0
+292,lack of motivation,10023614.0
+293,abnormal dreams,10000125.0
+294,heart rate irregular,10019304.0
+295,dilated pupils,10013014.0
+296,bleeding,10005103.0
+297,breathing difficult,10006338.0
+298,concentration loss,10010251.0
+299,burping,10006804.0
+300,panic attacks,10033665.0
+301,combative reaction,10010085.0
+302,yawn,10048231.0
+303,raw throat,10077283.0
+304,worn out,10048024.0
+305,blood loss of (nos),10005645.0
+306,bloating,10005265.0
+307,urinary tract infection,10046571.0
+308,temperature elevation,10043204.0
+309,SLE flare,10065992.0
+310,seizures,10039910.0
+311,chest infection,10008477.0
+312,lung injury,10061230.0
+313,cognitive impairment,10009846.0
+314,kidney stones,10023437.0
+315,hot feeling generalised,10065015.0
+316,ADD,10001118.0
+317,attention impaired,10003738.0
+318,flat affect,10016759.0
+319,detachment,10012536.0
+320,dyslexia,10013932.0
+321,touch sensitivity increased,10044124.0
+322,poor sleep,10036160.0
+323,depressive state,10049709.0
+324,night terrors,10029411.0
+325,difficult digestion,10012790.0
+326,pre-syncope,10036507.0
+327,pain in joint,10033434.0
+328,numbness throat,10059933.0
+329,numbness oral,10029855.0
+330,nicotine craving,10056484.0
+331,cough,10011224.0
+332,mood swings,10027951.0
+333,restless,10038740.0
+334,akathisia,10001540.0
+335,vision abnormal,10047508.0
+336,swelling of feet,10042693.0
+337,behavior abnormal,10004203.0
+338,agoraphobia,10001502.0
+339,emotional lability,10014555.0
+340,water retention,10047839.0
+341,withdrawn,10048013.0
+342,psychotic episode,10037254.0
+343,poor peripheral circulation,10036155.0
+344,instability emotional,10022454.0
+345,sound sensitivity increased,10070539.0
+346,sexual dysfunction,10040477.0
+347,thoughts of self harm,10043498.0
+348,delusion,10012239.0
+349,fear,10016275.0
+350,manic state,10026782.0
+351,hallucinations,10019077.0
+352,lactation induced,10023666.0
+353,difficulty sleeping,10012804.0
+354,slurred speech,10041053.0
+355,pulse rapid,10037484.0
+356,drooling,10013642.0
+357,taste disturbance,10043132.0
+358,appetite fluctuation,10074314.0
+359,enlargement breast female,10014843.0
+360,prolactin levels increased,10036828.0
+361,aching in knees,10000447.0
+362,knee pain,10023477.0
+363,walking difficulty,10047810.0
+364,head pain,10019198.0
+365,weakness in extremity,10065702.0
+366,musculoskeletal pain,10028391.0
+367,oedema,10030095.0
+368,generalized aching,10062428.0
+369,dissociation,10013457.0
+370,speech loss,10041470.0
+371,loss of consciousness,10024855.0
+372,jitteriness,10023191.0
+373,jerkiness,10023188.0
+374,floating feeling,10016782.0
+375,manic reaction,10026781.0
+376,convulsions,10010914.0
+377,fever,10016558.0
+378,psychotic behavior,10067568.0
+379,muscle spasms,10028334.0
+380,body temperature increased,10005911.0
+381,mania,10026749.0
+382,diabetes,10012594.0
+383,hot flashes,10020407.0
+384,postnasal drip,10036402.0
+385,delirious,10012217.0
+386,groggy,10018730.0
+387,yawning,10048232.0
+388,brain disorder nos,10006120.0
+389,itchy,10023089.0
+390,red neck,10038194.0
+391,energy decreased,10057841.0
+392,bruise,10006502.0
+393,aching in limb,10000448.0
+394,shivering,10040558.0
+395,perceptual distortion,10034376.0
+396,aggressive behavior,10062375.0
+397,tongue coated,10043945.0
+398,emotional reaction,10014559.0
+399,oscillopsia,10052087.0
+400,palpitation,10033556.0
+401,breath odor,10006325.0
+402,gastrointestinal disturbance,10017949.0
+403,rectal tenesmus,10057071.0
+404,anxiety,10002855.0
+405,heart pounding,10019297.0
+406,food aversion,10049238.0
+407,frequent bowel movements,10017367.0
+408,negative thoughts,10058672.0
+409,cardiac arrest transient,10007517.0
+410,trouble falling asleep,10044698.0
+411,saliva altered,10039379.0
+412,taste loss,10043134.0
+413,talkativeness,10043111.0
+414,nose bleed,10029792.0
+415,weight increase,10047898.0
+416,drug allergy,10013661.0
+417,attention deficit disorder,10003731.0
+418,death,10011906.0
+419,emotional distress,10049119.0
+420,memory impaired,10027174.0
+421,nerve damage,10029177.0
+422,fistula,10016717.0
+423,MS-like syndrome,10028055.0
+424,drug rash,10062948.0
+425,cluster headache,10059133.0
+426,thinking reduced,10043436.0
+427,shaking of hands,10040530.0
+428,sexual desire decreased,10059272.0
+429,detoxification,10061814.0
+430,facial spasm,10063006.0
+431,spasm eyelid,10041384.0
+432,intrusive thoughts,10077275.0
+433,hallucinating,10019062.0
+434,prolactin increased,10036826.0
+435,shortness of breath,10040604.0
+436,muscle pains,10028323.0
+437,blood sugar decreased,10005808.0
+438,increased skin sensitivity,10021681.0
+439,drug tolerance,10052804.0
+440,movements reduced,10028045.0
+441,feeling of total lack of energy,10016356.0
+442,sleep restless,10041007.0
+443,feeling hot and cold,10016335.0
+444,depersonalization,10012359.0
+445,muscle stiffness,10028339.0
+446,low mood,10024919.0
+447,sleep proplem,10041005.0
+448,tearfulness,10043169.0
+449,cold,10009851.0
+450,tremor muscle,10044573.0
+451,delirious ,10012217.0
+452,blood insulin decreased,10005613.0
+453,hypotension,10021097.0
+454,paresthesia,10033987.0
+455,difficulty focusing eyes,10012792.0
+456,achilles tendon discomfort,10048602.0
+457,itchy scalp,10023093.0
+458,nicotine addiction,10056478.0
+459,nicotine poisoning,10067843.0
+460,tooth disorder,10044034.0
+461,cold sweat,10009866.0
+462,chronic pain,10049475.0
+463,auditory hallucinations,10003785.0
+464,feelings of worthlessness,10016374.0
+465,suicidal depression,10042457.0
+466,depression worsened,10012398.0
+467,numbness of tongue,10029852.0
+468,disability,10013050.0
+469,clumsiness,10009696.0
+470,pulmonary pain,10074693.0
+471,time perception altered,10074073.0
+472,hallucination auditory,10019064.0
+473,Schizophrenia,10039626.0
+474,emotional withdrawal,10014560.0
+475,muscle pain,10028322.0
+476,hypochondriasis,10020965.0
