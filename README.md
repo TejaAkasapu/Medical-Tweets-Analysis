@@ -37,7 +37,7 @@ Our preprocessing includes
 
 ## Task 2
 * We did not remove any Stop Words as we want to improve the context.
-* We used Spacy ‘en_core_web_sm’ model for our baseline System.
+* We used Spacy ‘en_core_web_sm’ model for our baseline system.
 * We mapped the ADR label as mentioned in the dataset.
 * To improve the context of the sentence, we included the drug name in the Tweet text. 
 * Our motivation was, a drug causes similar Adverse Reactions on different consumers.
